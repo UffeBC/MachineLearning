@@ -1,7 +1,9 @@
-Title: Golf ball detection
+Project title: Golf ball detection
 
 Group:
-Aleksander Sønder
+Aleksander Sønder s185289
 Uffe Clausen
 
-30.5.2024
+Submission date: 30.5.2024
+
+Course: 62T22 and 62533 “Applied Machine Learning and Big Data
