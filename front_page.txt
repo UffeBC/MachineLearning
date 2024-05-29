@@ -1,0 +1,7 @@
+Title: Golf ball detection
+
+Group:
+Aleksander Sønder
+Uffe Clausen
+
+30.5.2024
