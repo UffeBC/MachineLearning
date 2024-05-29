@@ -1,0 +1,28 @@
+{
+    "boxes": [
+        {
+            "label": "ball",
+            "x": "543.40",
+            "y": "258.44",
+            "width": "8.79",
+            "height": "13.39"
+        },
+        {
+            "label": "smallGoal",
+            "x": "544.07",
+            "y": "257.85",
+            "width": "14.95",
+            "height": "37.99"
+        },
+        {
+            "label": "bigGoal",
+            "x": "50.22",
+            "y": "248.04",
+            "width": "15.14",
+            "height": "60.77"
+        }
+    ],
+    "height": 480,
+    "key": "image_63.png",
+    "width": 640
+}
